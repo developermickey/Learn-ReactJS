@@ -8,9 +8,7 @@ function ProductTab() {
         <div>
         <Product 
         title="Macbook Air M1" 
-        price={90000} features={["hi-tech", "durable", "fast"]} 
-  
-
+        price={90000} features={options}
         />
         <Product title="Macbook Air M2" price={130000}/>
         <Product title="Macbook Air M3" price={157000} />
